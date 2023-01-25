@@ -1,0 +1,3 @@
+class WelcomeController < ProtectedController
+
+end
